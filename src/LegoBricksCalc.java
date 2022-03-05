@@ -1,6 +1,6 @@
 public class LegoBricksCalc {
     public static void main(String[] args) {
-        // choosing an odd number between 50 and 100
+        // choosing an odd number between 50 and 100.
         int amountOfBricks = 65;
         // choosing an even number between 5 and 10
         int containerCapacity = 6;
@@ -21,7 +21,7 @@ public class LegoBricksCalc {
                 TotalContainers = (int)FullContainers + notFullContainers;
                 System.out.println("Total Containers we have: " + TotalContainers);
 
-                // if the steps aren't clear i can send a picture of handwriting for clarification of why I used what I used :)
+                // if the steps aren't clear I can send a picture of handwriting for clarification of why I used what I used :)
             }
             
         }

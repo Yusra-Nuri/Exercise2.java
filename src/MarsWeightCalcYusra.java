@@ -2,7 +2,7 @@
 public class MarsWeightCalcYusra {
     public static void main(String[] args) {
         
-        // Declaring all variables
+        // Declaring all variables .
         float earthWeightYusra;
         float marsWeightYusra;
         double marsWeightInDoubleYusra;

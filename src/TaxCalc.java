@@ -1,5 +1,5 @@
 
-import java.math.BigDecimal;
+//import java.math.BigDecimal;
 
 public class TaxCalc {
     public static void main(String[] args) {
@@ -17,7 +17,7 @@ public class TaxCalc {
         double PriceWithoutVat2 = valueWithVat / 1.23;
         System.out.println("Value without Vat: " + PriceWithoutVat2);
 
-        System.out.println("");
+
         System.out.println("Same thing after using Big decimal:");
 
 
@@ -41,7 +41,8 @@ public class TaxCalc {
                 new BigDecimal(val: "1.23"),
                 BigDecimal.ROUND_HALF_EVEN);
         System.out.println("Value Without VAT: "+ dbPriceWithoutVat2);
-*/
+
+.*/
 
 
 
